@@ -5,13 +5,12 @@ Austin.  It was the first in a long time, but exemplary of how great Austin
 meetups can be.  I would love to see a recording show up somewhere...  I am
 pretty sure it was Zoom recorded, so I still have some hope, but as of yet, I am
 not sure where I would find it if it does get posted.  However, they do have
-slides for this one [here](https://www.edgeatx.org/slides/) under February
-2024.  The slides of interest here, however take just a little bit more work.
-They are embedded in
-[this GitHub repository](https://github.com/tedpatrick/htmx-talk) which is not
-just simply slides, but the subject of the presentation.  Thus you can follow
-the instructions on this repository and launch a web server to see the slides,
-which are an [HTMX](https://htmx.org/) example.
+slides for this one [here](https://www.edgeatx.org/slides/) under February 2024.
+The slides of interest here, however take just a little bit more work.  They are
+embedded in [this GitHub repository](https://github.com/tedpatrick/htmx-talk)
+which is not just simply slides, but the subject of the presentation.  Thus you
+can follow the instructions on this repository and launch a web server to see
+the slides, which are an [HTMX](https://htmx.org/) example.
 
 I found this very interesting despite not being a front-end developer. I usually
 tell people "front-end to me is back-end to you."  That is to say that my
@@ -71,4 +70,8 @@ two talks were shared in a thread in the #_hangops channel of the hangops Slack
 [Austin DevOps meetup](https://www.meetup.com/austin-devops/)
 community) where people were sharing some of their favorite conference talks.
 
-
+So, now I will list some partially random thoughts related to all of this. I
+lack a good tool to chart all of the connections and ideas, and connect them to
+deeper explanations of the ideas I am connecting together, but hopefully this
+will make some sense to a reader who want to try to piece together the bread
+crumbs I am leaving here.
