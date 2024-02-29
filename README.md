@@ -12,3 +12,7 @@ easy for me to use, and GitHub is such a place.
 Eventually, I will probably figure other stuff out and move on to something
 more "real" as a solution, but for the time being I can post here, and it "just
 works."
+
+---
+
+[Complexity, human creativity, thermodynamics, HTMX, and AI](complex-or-no)
