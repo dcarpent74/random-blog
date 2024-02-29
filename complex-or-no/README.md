@@ -51,24 +51,22 @@ bases.  Add a couple attributes to your HTML, write your back-end to feed little
 snippets of partial HTML, and you have just replaced a whole pile of compiled
 JavaScript framework code... Awesome!
 
-Anyway, a couple days later I run into this gem of a talk called
-[Quit Simplifying](https://www.youtube.com/watch?v=lchJi2B_DlE) by Florian Haas.
+Anyway, a couple days later I run into this gem of a talk called [Quit
+Simplifying](https://www.youtube.com/watch?v=lchJi2B_DlE) by Florian Haas.
 Slides for that are [here](https://fghaas.github.io/quit-simplifying/) and it
-also importantly refers to this blog post by Mike Hadlow called
-[The Configuration Complexity Clock]
-(http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
+also importantly refers to this blog post by Mike Hadlow called [The
+Configuration Complexity Clock](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 As I listened to this, I thought about Ted's talk, and a bunch of other things.
 I also though about AI, which is also is something Ted is also engaged with at
 the moment.
 
-I suppose I can also throw in
-[this other talk]
-(https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+I suppose I can also throw in [this other
+talk](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 as well, which seems to me to be somewhat relevant to all of this.  These other
 two talks were shared in a thread in the #_hangops channel of the hangops Slack
-(introduced to me by the
-[Austin DevOps meetup](https://www.meetup.com/austin-devops/)
-community) where people were sharing some of their favorite conference talks.
+(introduced to me by the [Austin DevOps
+meetup](https://www.meetup.com/austin-devops/) community) where people were
+sharing some of their favorite conference talks.
 
 So, now I will list some partially random thoughts related to all of this. I
 lack a good tool to chart all of the connections and ideas, and connect them to
