@@ -1,6 +1,5 @@
 [Home](https://dcarpent74.github.io/)
 
-# random-blog
 Just a place to write about random thoughts that I want to make public.
 
 I've decided to create a blog-repository here simply because I have nothing
