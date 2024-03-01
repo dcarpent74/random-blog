@@ -16,4 +16,4 @@ works."
 
 ---
 
-[Complexity, human creativity, thermodynamics, HTMX, and AI](complex-or-no)
+[Thoughts on Complexity and Simplification](complex-or-no)
