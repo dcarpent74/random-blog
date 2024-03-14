@@ -2,12 +2,11 @@
 
 I attended the first [Bleeding Edge Web meetup](https://edgeatx.org) here in
 Austin.  It was the first in a long time, but exemplary of how great Austin
-meetups can be.  I would love to see a recording show up somewhere...  I am
-pretty sure it was Zoom recorded, so I still have some hope, but as of yet, I am
-not sure where I would find it if it does get posted.  However, they do have
-slides for this one [here](https://www.edgeatx.org/slides/) under February 2024.
-The slides of interest here, however take just a little bit more work.  They are
-embedded in [this GitHub repository](https://github.com/tedpatrick/htmx-talk)
+meetups can be.  Video of the meetup is now up
+[here](https://www.youtube.com/watch?v=0XCvYxn1M9M). Slides for this one
+[here](https://www.edgeatx.org/slides/) under February 2024. The slides of
+interest here, however take just a little bit more work.  They are embedded
+in [this GitHub repository](https://github.com/tedpatrick/htmx-talk)
 which is not just simply slides, but the subject of the presentation.  Thus you
 can follow the instructions on this repository and launch a web server to see
 the slides, which are an [HTMX](https://htmx.org/) example.
