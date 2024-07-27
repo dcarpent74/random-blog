@@ -16,5 +16,10 @@ works."
 
 ---
 
-[My Projects](my-projects-or-no)  
+[My Projects](my-projects)  
 [Thoughts on Complexity and Simplification](complex-or-no)  
+
+---
+
+[DevOps applied to Everything](devops-e)  
+
