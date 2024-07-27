@@ -16,4 +16,5 @@ works."
 
 ---
 
-[Thoughts on Complexity and Simplification](complex-or-no)
+[My Projects](my-projects-or-no)  
+[Thoughts on Complexity and Simplification](complex-or-no)  
