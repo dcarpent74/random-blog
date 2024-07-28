@@ -21,5 +21,5 @@ works."
 
 ---
 
-[DevOps applied to Everything](devops-e)  
+[DevOps Applied to Everything](devops-e)  
 
