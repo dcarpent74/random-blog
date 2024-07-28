@@ -1,6 +1,6 @@
 ## [DevOps Applied to Everything](README.md)
 
-# DevOps Applied to Everything - preliminary brain dump
+# Preliminary brain dump
 
 A little while ago I finally responded to a PM from a friend of mine regarding
 DevOps and really getting at the work I have been doing in developing a
@@ -142,4 +142,5 @@ mostly just tabulated mental indices to ideas, and not necessarily fleshed them
 out.
 
 
-DC - 20191007 - 20240727
+DC - 20191007(PV) - 20240727
+
