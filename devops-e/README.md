@@ -1,11 +1,13 @@
 # DevOps Applied to Everything
 
 This project originated from a request to discuss the application of DevOps at
-Cray. Part of my role involved addressing the question: What should DevOps look like at Cray, particularly for the teams I supported? This inquiry naturally
-expanded into a broader consideration: What should DevOps look like for any
-given project? As a multipotentialite, I was further intrigued by the
-possibility that the principles of DevOps could be applied beyond their
-traditional domains.
+Cray. Part of my role involved addressing the question: *What should DevOps look
+like at Cray, particularly for the teams I supported?* This inquiry naturally
+expanded into a broader consideration: *What should DevOps look like for any
+given project?* As a multipotentialite, I was further intrigued by the
+possibility that the principles of DevOps, along with the continuous improvement
+methodologies that preceded and influenced the DevOps movement, could be applied
+beyond their traditional domains.
 
 This project aims to examine the fundamental principles underlying DevOps and
 related methodologies, identifying the key factors that contribute to both
@@ -17,18 +19,22 @@ continuous improvement. By analyzing both parallel and contrasting methodologies
 across diverse fields, the ultimate goal is to develop a more comprehensive,
 interdisciplinary understanding of productive cultures and effective practices.
 
-The extent to which the concept of "everything" can be encompassed within DevOps
-remains an open question.
+The extent to which the concept of "everything" can be extended within this
+project remains an open question.
 
-Historically, groundbreaking ideas have led to significant successes, many of
-which have been adapted to contemporary challenges, occasionally yielding
-transformative outcomes. It is possible that continuous improvement processes,
-along with their iterative refinements, could be applied recursively to
-themselves, further enhancing their efficacy.
+Historically, a set of groundbreaking ideas led to significant successes across
+several professional fields. Some of these ideas have since been adapted to
+more contemporary challenges, occasionally yielding transformative outcomes. It
+is possible that continuous improvement processes, along with their iterative
+refinements, could be applied recursively, further enhancing their efficacy.
 
-What insights can DevOps offer beyond manufacturing and high technology?
-Moreover, if an analogous framework emerges in an entirely different context,
-can engineering-oriented fields derive valuable lessons from it?
+The term "DevOps" in the project title is tentative. Today, DevOps primarily
+refers to modern cloud software development practices. Other terms such as
+**Kaizen** or **Lean**, commonly used in manufacturing and high technology,
+could be equally relevant. More broadly, this project aims to extend insights
+beyond these industries—even beyond the professional world itself.
+Furthermore, if analogous frameworks emerge in entirely different contexts,
+can engineering-oriented fields derive valuable lessons from them?
 
 Many of the concepts explored in this project are not novel, yet they may
 require reconsideration from a different perspective. From everything to
