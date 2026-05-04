@@ -50,6 +50,7 @@ DC - 2024???? - 20250327
 
 [Preliminary Brain Dump](brain-dump.md)  
 [A practical example to apply to many things](practical-example.md)  
+[Campbell's Law Applied to Everything (in five minutes) ](Campbells-law-e.pdf)  
 
 ---
 
